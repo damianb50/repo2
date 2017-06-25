@@ -1,3 +1,6 @@
 jazda
 fa fara fa
 rypaæ
+
+nowe_tresci
+nowe_rzeczy
